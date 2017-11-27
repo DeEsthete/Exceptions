@@ -1,0 +1,6 @@
+c:\users\павлове\documents\visual studio 2017\Projects\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+c:\users\павлове\documents\visual studio 2017\Projects\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+c:\users\павлове\documents\visual studio 2017\Projects\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+c:\users\павлове\documents\visual studio 2017\Projects\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+c:\users\павлове\documents\visual studio 2017\Projects\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
